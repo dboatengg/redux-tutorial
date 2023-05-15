@@ -41,6 +41,9 @@ Then, start the app:
 npm run dev
 ```
 
+## Demo
+Read tutorial [here](https://www.freecodecamp.org/news/redux-and-redux-toolkit-for-beginners/).
+
 
 ## Built With
 
